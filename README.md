@@ -18,7 +18,7 @@ My goals for this challenge are:
 
 💭 Thoughts: The design part takes time, I decided to do something minimalistic.(1hr)
 
-[Link to work:](https://github.com/EllaFerreira/React-portfolio) 
+[Link to work](https://github.com/EllaFerreira/React-portfolio) 
 
 **Day 1:** January 24 2022
 - Project: Ella React portfolio
@@ -26,4 +26,12 @@ My goals for this challenge are:
 
 💭 Thoughts: I was confused in which language to use, then I decided to use typescript since I work with it, it will be hard but it will take my out of my conform zone.(2hr)
 
-[Link to work:](https://github.com/EllaFerreira/React-portfolio) 
+[Link to work](https://github.com/EllaFerreira/React-portfolio) 
+
+**Day 2:** January 24 2022
+- Project: Ella React portfolio
+- Today's Progress: Installed eslint, jest, style-components and granphql. Started my first component.
+
+💭 Thoughts: I decided to use jest to test my code, it will improve the project performace.(1hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio) 
