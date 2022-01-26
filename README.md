@@ -28,10 +28,18 @@ My goals for this challenge are:
 
 [Link to work](https://github.com/EllaFerreira/React-portfolio) 
 
-**Day 2:** January 24 2022
+**Day 2:** January 25 2022
 - Project: Ella React portfolio
 - Today's Progress: Installed eslint, jest, style-components and granphql. Started my first component.
 
 💭 Thoughts: I decided to use jest to test my code, it will improve the project performace.(1hr)
 
 [Link to work](https://github.com/EllaFerreira/React-portfolio) 
+
+**Day 3:** January 26 2022
+- Project: Ella React portfolio
+- Today's Progress: Button, footer, Footer icons and navbar components.
+
+💭 Thoughts: I decided to use jest to test my code, it will improve the project performace.(1hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
