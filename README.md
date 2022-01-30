@@ -18,4 +18,60 @@ My goals for this challenge are:
 
 💭 Thoughts: The design part takes time, I decided to do something minimalistic.(1hr)
 
-[Link to work:]() 
+[Link to work](https://github.com/EllaFerreira/React-portfolio) 
+
+**Day 1:** January 24 2022
+- Project: Ella React portfolio
+- Today's Progress: Installed next js and aditional packages to start my week, update read me file and portfolio title on figma.
+
+💭 Thoughts: I was confused in which language to use, then I decided to use typescript since I work with it, it will be hard but it will take my out of my conform zone.(2hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio) 
+
+**Day 2:** January 25 2022
+- Project: Ella React portfolio
+- Today's Progress: Installed eslint, jest, style-components and granphql. Started my first component.
+
+💭 Thoughts: I decided to use jest to test my code, it will improve the project performace.(1hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio) 
+
+**Day 3:** January 26 2022
+- Project: Ella React portfolio
+- Today's Progress: Button component.
+
+💭 Thoughts: Searching more about components and how to use props in typescript.(1hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
+
+**Day 4:** January 27 2022
+- Project: Ella React portfolio
+- Today's Progress: Buttons and forms components, added packages and started page 404.
+
+💭 Thoughts: Got some new sources from the internet, need to review some CSS (3hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
+
+**Day 5:** January 28 2022
+- Project: Ella React portfolio
+- Today's Progress: block components.
+
+💭 Thoughts: (3hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
+
+**Day 6:** January 29 2022
+- Project: Ella React portfolio
+- Today's Progress: page titles components
+
+💭 Thoughts: (2hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
+
+**Day 7:** January 30 2022
+- Project: Ella React portfolio
+- Today's Progress: Added pages, ui components and configs.
+
+💭 Thoughts: Trying to figured how should I present my projects on the home page.(4hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
