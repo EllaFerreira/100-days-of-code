@@ -51,3 +51,27 @@ My goals for this challenge are:
 💭 Thoughts: Got some new sources from the internet, need to review some CSS (3hr)
 
 [Link to work](https://github.com/EllaFerreira/React-portfolio)
+
+**Day 5:** January 28 2022
+- Project: Ella React portfolio
+- Today's Progress: block components.
+
+💭 Thoughts: (3hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
+
+**Day 6:** January 29 2022
+- Project: Ella React portfolio
+- Today's Progress: page titles components
+
+💭 Thoughts: (2hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
+
+**Day 7:** January 30 2022
+- Project: Ella React portfolio
+- Today's Progress: Added pages, ui components and configs.
+
+💭 Thoughts: Trying to figured how should I present my projects on the home page.(4hr)
+
+[Link to work](https://github.com/EllaFerreira/React-portfolio)
